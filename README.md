@@ -2,7 +2,7 @@
 
 ### 🌟 About Me:
 
-* 🔭 Current Role: Director of Engineering at Kune Consulting
+* 🔭 Current Role: Director of Engineering at Atomise Limited
 * 💻 Passionate About: Software development, cloud technologies, and continuous integration/continuous deployment (CI/CD)
 * 🌐 Tech Stack: Java (Micronaut), JavaScript (Angular/React), TypeScript, AWS (Lambda, Amplify, Cognito), Jenkins, GitHub Actions, and Ionic
 * 🚀 Experience: Comprehensive background in designing, coding, and delivering robust software solutions
