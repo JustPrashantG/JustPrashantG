@@ -1,4 +1,4 @@
-# Hello World !!! I am [Prashant Gupta](https://github.com/prashantcodecraft) 👋
+# Hello World !!! I am [Prashant Gupta](https://github.com/JustPrashantG) 👋
 
 ### 🌟 About Me:
 
@@ -20,17 +20,17 @@
 
 ## 🤝 Connect with me
 
-<a href="https://prashantcodecraft.com"><img src="https://github.com/prashantcodecraft/prashantcodecraft/blob/main/assets/logo/social/website.png" width="40" /></a>
+<a href="https://prashantcodecraft.com"><img src="https://github.com/prashantcodecraft/JustPrashantG/blob/main/assets/logo/social/website.png" width="40" /></a>
 &nbsp;
-<a href="https://github.com/prashantcodecraft"><img src="https://github.com/prashantcodecraft/prashantcodecraft/blob/main/assets/logo/social/github.png" width="40" /></a>
+<a href="https://github.com/JustPrashantG"><img src="https://github.com/prashantcodecraft/JustPrashantG/blob/main/assets/logo/social/github.png" width="40" /></a>
 &nbsp;
-<a href="https://www.facebook.com/prashantcodecraft"><img src="https://github.com/prashantcodecraft/prashantcodecraft/blob/main/assets/logo/social/facebook.png" width="40" /></a>
+<a href="https://www.facebook.com/JustPrashantG"><img src="https://github.com/prashantcodecraft/JustPrashantG/blob/main/assets/logo/social/facebook.png" width="40" /></a>
 &nbsp;
-<a href="https://www.instagram.com/prashantcodecraft"><img src="https://github.com/prashantcodecraft/prashantcodecraft/blob/main/assets/logo/social/instagram.png" width="40" /></a>
+<a href="https://www.instagram.com/JustPrashantG"><img src="https://github.com/prashantcodecraft/JustPrashantG/blob/main/assets/logo/social/instagram.png" width="40" /></a>
 &nbsp;
-<a href="https://www.threads.net/prashantcodecraft"><img src="https://github.com/prashantcodecraft/prashantcodecraft/blob/main/assets/logo/social/thread.png" width="30" /></a>
+<a href="https://www.threads.net/JustPrashantG"><img src="https://github.com/prashantcodecraft/JustPrashantG/blob/main/assets/logo/social/thread.png" width="30" /></a>
 &nbsp;
-<a href="https://www.linkedin.com/in/prashantcodecraft"><img src="https://github.com/prashantcodecraft/prashantcodecraft/blob/main/assets/logo/social/linkedin.png" width="40" /></a>
+<a href="https://www.linkedin.com/in/JustPrashantG"><img src="https://github.com/prashantcodecraft/JustPrashantG/blob/main/assets/logo/social/linkedin.png" width="40" /></a>
 &nbsp;
 
 ## 🤩 What if you like my work?
