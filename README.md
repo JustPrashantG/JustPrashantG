@@ -20,7 +20,7 @@
 
 ## 🤝 Connect with me
 
-<a href="https://prashantcodecraft.com"><img src="https://github.com/JustPrashantG/JustPrashantG/blob/main/assets/logo/social/website.png" width="40" /></a>
+<a href="https://JustPrashantG.com"><img src="https://github.com/JustPrashantG/JustPrashantG/blob/main/assets/logo/social/website.png" width="40" /></a>
 &nbsp;
 <a href="https://github.com/JustPrashantG"><img src="https://github.com/JustPrashantG/JustPrashantG/blob/main/assets/logo/social/github.png" width="40" /></a>
 &nbsp;
